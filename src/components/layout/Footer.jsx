@@ -2,9 +2,9 @@ import React from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
 
 const socialLinks = [
-  { icon: <Linkedin />, href: 'https://www.linkedin.com', name: 'LinkedIn' },
-  { icon: <Github />, href: 'https://www.github.com', name: 'GitHub' },
-  { icon: <Mail />, href: 'mailto:francisco.frascona@email.com', name: 'Email' },
+  { icon: <Linkedin />, href: 'https://www.linkedin.com/in/francisco-frascona/', name: 'LinkedIn' },
+  { icon: <Github />, href: 'https://github.com/franciscofrask', name: 'GitHub' },
+  { icon: <Mail />, href: 'mailto:franciscofrascona@gmail.com', name: 'Email' },
 ];
 
 const Footer = () => {
