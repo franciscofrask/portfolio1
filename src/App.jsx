@@ -51,7 +51,7 @@ function App() {
   const handleDownloadCV = () => {
     toast({
       title: '🚧 Esta función no está implementada aún',
-      description: '¡Pero no te preocupes! Puedes solicitarla en tu próximo prompt 🚀',
+      description: '¡Pronto subiré novedades! 🚀',
     });
   };
 
