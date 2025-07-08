@@ -47,7 +47,7 @@ const About = () => {
               <img
                 className="w-full h-96 object-cover rounded-xl"
                 alt="Francisco Frascona - Desarrollador Web"
-                src="../public/images/francisco.png"
+                src="/public/images/francisco.png"
               />
             </div>
           </motion.div>
