@@ -10,7 +10,7 @@ const projects = [
     description: 'Aplicación completa de gestión de stock para empresas. Incluye módulos de clientes, proveedores, almacenes, ventas y presupuestos. Ideal para controlar inventario en tiempo real.',
     technologies: ['Next.js', 'Node.js', 'Express', 'MySQL', 'Mantine'],
     image: 'https://api.microlink.io/?url=https://sistemas-fmh3.vercel.app/stock/inventario&screenshot=true&meta=false&embed=screenshot.url',
-    demoUrl: null,
+    demoUrl: "https://sistemas-lilac.vercel.app/stock/inventario",
     repoUrl: 'https://github.com/franciscofrask/sistemas',
   },
   {

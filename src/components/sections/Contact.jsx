@@ -43,17 +43,7 @@ const Contact = ({ onContactSubmit }) => {
               </div>
             </div>
 
-            <div className="glass-effect rounded-2xl p-6">
-              <div className="flex items-center space-x-4">
-                <div className="w-12 h-12 bg-blue-600/20 rounded-full flex items-center justify-center">
-                  <Phone className="h-6 w-6 text-blue-400" />
-                </div>
-                <div>
-                  <span className="text-white font-semibold">Teléfono</span>
-                  <p className="text-gray-300">+54 11 1234-5678</p>
-                </div>
-              </div>
-            </div>
+           
           </motion.div>
 
           <motion.div
