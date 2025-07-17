@@ -26,10 +26,10 @@ const Footer = () => {
           ))}
         </div>
         <p className="text-muted-foreground">
-          © 2024 Francisco Frascona. Todos los derechos reservados.
+          ©2025 Francisco Frascona.
         </p>
         <p className="text-muted-foreground/70 text-sm mt-2">
-          Desarrollado con React, Tailwind CSS y mucho ☕
+          Desarrollado con React, Tailwind y CSS 
         </p>
       </div>
     </footer>

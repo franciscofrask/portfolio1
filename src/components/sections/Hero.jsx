@@ -28,7 +28,7 @@ const Hero = ({ scrollToSection }) => {
             <span className="text-white">Web Full Stack</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-            Hola, soy Francisco Frascona, desarrollador web Full Stack. Me enfoco en crear aplicaciones eficientes, escalables y bien diseñadas.
+            Hola, soy Francisco Frasconá, desarrollador web Full Stack. Me enfoco en crear aplicaciones eficientes, escalables y bien diseñadas.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button

@@ -22,7 +22,7 @@ const Navbar = ({ menuItems, activeSection, scrollToSection }) => {
           >
             <Code2 className="text-blue-400" />
             <span className="text-xl font-bold gradient-text">
-              Francisco Frascona
+              Francisco Frasconá
             </span>
           </motion.div>
 
