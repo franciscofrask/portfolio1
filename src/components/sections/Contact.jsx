@@ -38,7 +38,7 @@ const Contact = ({ onContactSubmit }) => {
                 </div>
                 <div>
                   <span className="text-white font-semibold">Email</span>
-                  <p className="text-gray-300">francisco.frascona@email.com</p>
+                  <p className="text-gray-300">franciscofrascona@gmail.com</p>
                 </div>
               </div>
             </div>
